@@ -1,0 +1,19 @@
+{
+  "name": "project_builder",
+  "version": "1.0.0",
+  "description": "## Components:  - database  - environment  - backend   - frontend  - CSV  - Cloud technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chestnyh/project_builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chestnyh/project_builder/issues"
+  },
+  "homepage": "https://github.com/chestnyh/project_builder#readme"
+}
