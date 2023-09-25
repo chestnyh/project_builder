@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "project_builder",
   "version": "1.0.0",
   "description": "## Components:  - database  - environment  - backend   - frontend  - CSV  - Cloud technologies",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chestnyh/project_builder/issues"
   },
-  "homepage": "https://github.com/chestnyh/project_builder#readme"
+  "homepage": "https://github.com/chestnyh/project_builder#readme",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
 }

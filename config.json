@@ -1,0 +1,34 @@
+{
+    "database": {
+        "POSTGRESQL": [
+            "PSQL_USER",
+            "PRQL_PASSWORD",
+            "PSQL_DATABASE",
+            "PSQL_HOST",
+            "PSQL_POST"
+        ],
+        "MYSQL": [
+            "MYSQL_USER",
+            "MYSQL_PASSWORD",
+            "MYSQL_DATABASE",
+            "MYSQL_HOST",
+            "MYSQL_POST"
+        ],
+        "MONGODB": [
+            "MNGDB_USER",
+            "MNGDB_PASSWORD",
+            "MNGDB_DATABASE",
+            "MNGDB_HOST",
+            "MNGDB_POST"
+        ]
+    },
+    "backend": [
+        "express",
+        "nestjs",
+        "fastify",
+        "koa"
+    ],
+    "frontend": [
+        "REACT_JS"
+    ]
+}
