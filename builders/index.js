@@ -1,3 +1,3 @@
-const main = (config) => {
-
+export default (config) => {
+    
 }
