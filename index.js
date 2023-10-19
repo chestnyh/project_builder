@@ -1,4 +1,4 @@
-import builder from "./builders/index.js";
-import config from "./configs/default.json" assert { type: "json" };
+const builder = require('./builders/index.js');
+const config = require('./configs/default.json');
 
 builder(config);
